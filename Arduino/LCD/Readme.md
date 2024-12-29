@@ -1,5 +1,8 @@
 # LCD
 
+## LCD SetUp Schema 
+![LCD SetUp!](https://cdn.forbot.pl/blog/wp-content/uploads/2015/08/Arduino_LCD.png "LCD SetUp")
+
 ## Hardware
 | Name          | Model  | Datasheet |
 | :---------    | ------ | --------- |
