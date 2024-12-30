@@ -1,3 +1,9 @@
+/* 
+  Arduino LCD Simple Program
+  Dev: Roland Liedtke
+  Date: 30/12/2024
+*/
+
 #include <LiquidCrystal.h>                    // LCD Library
 
 const byte lcd_RS = 2;                        // Memory optimisation
