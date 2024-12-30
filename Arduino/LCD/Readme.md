@@ -12,3 +12,4 @@
 
 ## Library
 - [Liquid Crystal](https://docs.arduino.cc/libraries/liquidcrystal/)
+- [Time Library](https://github.com/PaulStoffregen/Time)
