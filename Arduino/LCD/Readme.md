@@ -20,7 +20,7 @@
 
 <details>
   <summary>
-    LCD_Timer
+    LCD_Clock
   </summary>
   
 ## LCD SetUp Schema 
