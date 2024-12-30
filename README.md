@@ -1,5 +1,9 @@
-# Arduino
+# Embedded
 
+## Hardware
+- Arduino UNO R3
+- Raspberry Pi 5 8GB
+  
 ## Schema Editors
 - [Circuit Sandbox](https://spinningnumbers.org/circuit-sandbox/)
 - [Circuit Simulator Applet](https://www.falstad.com/circuit/)
