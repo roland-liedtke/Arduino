@@ -1,10 +1,18 @@
+/* 
+  Arduino Simple Buzzer Alarm
+  Dev: Roland Liedtke
+  Date: 30/12/2024
+*/
+
+const byte buzzerPin = 9;
+
 void setup() {
-  pinMode(12, OUTPUT);
+  pinMode(buzzerPin, OUTPUT);
 }
 
 void loop() {
-  digitalWrite(12, HIGH);
+  digitalWrite(buzzerPin, HIGH);
   delay(1000);
-  digitalWrite(12, LOW);
+  digitalWrite(buzzerPin, LOW);
   delay(1000);
 }
