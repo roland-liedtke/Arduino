@@ -1,3 +1,9 @@
+/* 
+  Arduino LCD Clock Program
+  Dev: Roland Liedtke
+  Date: 30/12/2024
+*/
+
 #include <LiquidCrystal.h>                    // LCD Library
 #include <TimeLib.h>                          // Time Library
 
