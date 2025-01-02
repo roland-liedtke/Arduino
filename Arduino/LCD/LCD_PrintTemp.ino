@@ -2,6 +2,8 @@
   Arduino Temp Sensor Reader on LCD
   Dev: Roland Liedtke
   Date: 31/12/2024
+  LCD: justPi 16x2 with HD44780 driver
+  Version: 1
 */
 
 #include <LiquidCrystal.h>                    // LCD Library
