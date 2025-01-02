@@ -2,6 +2,7 @@
   Arduino Simple Buzzer Alarm
   Dev: Roland Liedtke
   Date: 30/12/2024
+  Buzzer: 12mm with generator
   Version: 1
 */
 
