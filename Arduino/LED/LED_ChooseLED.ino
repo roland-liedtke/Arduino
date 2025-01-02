@@ -18,7 +18,8 @@ void setup() {
 
 void loop() {
   value = analogRead(A4);                                             // Read value from ADC   
-  value = map(value, 0, 1023, 1, 5);                                  // Map Value from 0-1023 to 1-5
+  // !! 4 & 5 Diod flickering
+  value = map(value, 0, 1021, 1, 5);                                  // Map Value from 0-1023 to 1-5
 
   if (value == 1) {
       digitalWrite(8, HIGH); 
