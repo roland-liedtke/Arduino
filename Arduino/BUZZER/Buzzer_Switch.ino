@@ -2,6 +2,7 @@
   Arduino Simple Buzzer Alarm
   Dev: Roland Liedtke
   Date: 30/12/2024
+  Version: 1
 */
 
 const byte buzzerPin = 9;
