@@ -2,7 +2,8 @@
   Arduino Temp Sensor Reader
   Dev: Roland Liedtke
   Date: 30/12/2024
-  Sensor: LM35 DZ 
+  Sensor: LM35 DZ
+  Version: 1
 */
 
 const byte tempSensor = A1;
